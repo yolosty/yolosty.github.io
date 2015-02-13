@@ -1,14 +1,17 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: You Only Live Once, So Treat Yo`self TODAY!!!
+email: yolosty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  When you are feeling depressed, excited, happy, or sad...TREAT YO`SELF.
+  Clothes --> TREAT YO`SELF
+  Fragrances --> TREAT YO`SELF
+  Massages --> TREAT YO`SELF
+  Mimosas --> TREAT YO`SELF
+  Fine Leather Goods --> TREAT YO`SELF
+  TODAY is the best day of the year! 🎶
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://yolosty.today" # the base hostname & protocol for your site
+twitter_username: yolosty
 
 # Build settings
 markdown: kramdown
