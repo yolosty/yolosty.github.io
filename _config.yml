@@ -2,13 +2,13 @@
 title: You Only Live Once, So Treat Yo`self TODAY!!!
 email: yolosty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  When you are feeling depressed, excited, happy, or sad...TREAT YO`SELF.
+  When you are feeling depressed, excited, happy, or sad...TREAT YO`SELF.\n
   Clothes --> TREAT YO`SELF
   Fragrances --> TREAT YO`SELF
   Massages --> TREAT YO`SELF
   Mimosas --> TREAT YO`SELF
   Fine Leather Goods --> TREAT YO`SELF
-  TODAY is the best day of the year! 🎶
+  TODAY is the best day of the year! &#9835;
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yolosty.today" # the base hostname & protocol for your site
 twitter_username: yolosty
